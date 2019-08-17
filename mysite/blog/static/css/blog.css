@@ -1,0 +1,46 @@
+.text{
+  background: url(https://media.giphy.com/media/3o6Ztb45EYezY9x9gQ/giphy.gif);
+  background-size: contain;
+  background-position: top left;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-size: 10rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.techfont{
+  font-family: 'Oswald',sans-serif;
+  font-size: 1.5em
+  margin-bottom:10px;
+}
+
+.postdate{
+  text-align: center;
+}
+
+.postcontent{
+  font-family: 'Oswald',sans-serif;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px
+}
+
+
+
+.posttitle{
+  font-family: 'Oswald',sans-serif;
+  font-size: 3.0em
+  text-align: center;
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
